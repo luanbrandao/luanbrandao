@@ -20,7 +20,7 @@
 <p>
 
 ## Ask me about :computer: 
-- **Competitive Programming**
+- **Programming**
 	- JavaScript ❤️
 	- TypeScript ❤️
 	- something PHP
