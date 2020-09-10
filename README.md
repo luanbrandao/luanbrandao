@@ -21,14 +21,13 @@
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 <br/>
 <p>
-
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Python ❤️
 	- C++
 	- Some Java
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
