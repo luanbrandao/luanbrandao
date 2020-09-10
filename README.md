@@ -13,11 +13,11 @@
 	<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 	</div >
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
+
 </div>
-<br/>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
-<br/>
-<p>
 
 ## Ask me about :computer: 
 - **Programming**
@@ -40,8 +40,3 @@
 - **Mobile
 	- Ionic
 	- React-Native
-
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
