@@ -26,10 +26,10 @@
 	- something PHP
 
 - **Back-end**
-	-NodeJS
+	- NodeJS
 		- Express
 		- AdonisJs
-	-PHP
+	- PHP
 		- Slim
 		- Laravel		
 
